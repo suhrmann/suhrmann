@@ -15,7 +15,7 @@
         <li> 🌱 I’m currently diving into Flutter</li>
         <li> 🧗 Outside of work, 
           <ul>
-            <li> ⚜️ I lead a group of scouts ([DPSG](https://dpsg.de/com/what-we-do.html))
+            <li> ⚜️ I lead a group of scouts (<a href="https://dpsg.de/com/what-we-do.html">DPSG</a>)
             <li> ⛑️ I participate in active duty in Bavarian Mountain Rescue
           </ul>
         </li>

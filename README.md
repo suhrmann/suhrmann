@@ -16,7 +16,7 @@
         <li> 🧗 Outside of work, 
           <ul>
             <li> ⚜️ I lead a group of scouts (<a href="https://dpsg.de/com/what-we-do.html">DPSG</a>)
-            <li> ⛑️ I participate in active duty in Bavarian Mountain Rescue
+            <li> ⛑️ I participate in active duty in <a href="https://www.bergwacht-bayern.de">Bavarian Mountain Rescue</a>
           </ul>
         </li>
         <li> 📫 How to reach me: <a href="mailto:suhrmann@posteo.de">suhrmann@posteo.de</a> </li>

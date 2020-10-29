@@ -1,5 +1,4 @@
 ### Servus 👋
-> Servus [...] is a salutation used in many parts of Central and Eastern Europe.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhrmann&show_icons=true&count_private=true">
@@ -35,6 +34,7 @@
   </tr>
 </table>
 
+> "Servus [...] is a salutation used in many parts of Central and Eastern Europe." Especially in Lower Bavaria and Austria.
 
 <!--
 **suhrmann/suhrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

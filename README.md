@@ -1,13 +1,13 @@
 ### Servus 👋
 > Servus [...] is a salutation used in many parts of Central and Eastern Europe.
 
-<div style="text-align: center; padding: 1em;">
-    <img src="https://github-readme-stats.vercel.app/api?username=suhrmann&show_icons=true&count_private=true">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhrmann&show_icons=true&count_private=true">
+</p>
 
 <table style="width: 100%">
   <tr>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="vertical-align: top; width: 50%;">
       <p><code>$ ~/about-me.md</code></p>
       <ul>
         <li> 🔭 I’m currently working on my master's thesis <br>

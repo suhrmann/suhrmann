@@ -9,10 +9,9 @@
     <td style="vertical-align: top; width: 50%;">
       <p><code>$ ~/about-me.md</code></p>
       <ul>
-        <li> 🔭 I’m currently working on my master's thesis <br>
-          <blockquote> Evaluation and comparison of 3D pose estimation frameworks </blockquote>
+        <li> 🏠 I’m currently working on <a href="https://deinhaus4-0.de/start/">DeinHaus 4.0</a> <br>
         </li>
-        <li> 🌱 I’m currently diving into Flutter</li>
+        <li> 🔭 I’m currently diving into MQTT an CI/CD</li>
         <li> 🧗 Outside of work, 
           <ul>
             <li> ⚜️ I lead a group of scouts (<a href="https://dpsg.de/com/what-we-do.html">DPSG</a>)

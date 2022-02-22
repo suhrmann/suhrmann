@@ -11,7 +11,7 @@
       <ul>
         <li> 🏠 I’m currently working on <a href="https://deinhaus4-0.de/start/">DeinHaus 4.0</a> <br>
         </li>
-        <li> 🔭 I’m currently diving into MQTT an CI/CD</li>
+        <li> 🔭 I’m currently diving into MQTT and CI/CD</li>
         <li> 🧗 Outside of work, 
           <ul>
             <li> ⚜️ I lead a group of scouts (<a href="https://dpsg.de/com/what-we-do.html">DPSG</a>)

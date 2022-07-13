@@ -9,7 +9,7 @@
     <td style="vertical-align: top; width: 50%;">
       <p><code>$ ~/about-me.md</code></p>
       <ul>
-        <li> 🔭 I’m currently researching at [Technology Campus Freyung](https://th-deg.de/tc-freyung-en)</li>
+        <li> 🔭 I do research at <a href="https://th-deg.de/tc-freyung-en">Technology Campus Freyung</a></li>
         <li> 🧗 Outside of work, 
           <ul>
             <li> ⚜️ I lead a group of scouts (<a href="https://dpsg.de/com/what-we-do.html">DPSG</a>)

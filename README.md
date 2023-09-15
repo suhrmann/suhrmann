@@ -12,8 +12,8 @@
         <li> 🔭 I do research at <a href="https://th-deg.de/tc-freyung-en">Technology Campus Freyung</a></li>
         <li> 🧗 Outside of work, 
           <ul>
-            <li> ⚜️ I lead a group of scouts (<a href="https://dpsg.de/com/what-we-do.html">DPSG</a>)
             <li> ⛑️ I participate in active duty in <a href="https://www.bergwacht-bayern.de">Bavarian Mountain Rescue</a>
+            <li> 🚑 I help in voluntary medical services with <a href="https://www.brk.de/">Bavarian Red Cross</a>.
           </ul>
         </li>
         <li> 📫 How to reach me: <a href="mailto:suhrmann@posteo.de">suhrmann@posteo.de</a> </li>
@@ -23,15 +23,15 @@
       <p><code>$ ~/portfolio.md</code></p>
       <ul>
         <li> <a href="https://github.com/suhrmann/Anno-1800-Calculator">Anno-1800-Calculator <img src="https://img.shields.io/github/downloads/Vadammt/Anno-1800-Calculator/total.svg?style=flat" /></a> <br>
-        Calculator for web and desktop using Electron </li>
+        Calculator for web and desktop using Electron - sadly abandoned by now due to lack of time :(</li>
         <li> <a href="https://github.com/suhrmann/Karlorona">Karlorona</a> <br>
-        Android/iOS app in Flutter (unpublished) </li>
+        Android/iOS app in Flutter for hackathon #WirvsVirus (=we vs. virus; unpublished) </li>
       </ul>
     </td>
   </tr>
 </table>
 
-> "Servus [...] is a salutation used in many parts of Central and Eastern Europe." Especially in Lower Bavaria and Austria.
+> Servus is a salutation used in many parts of Central and Eastern Europe, especially in Bavaria and Austria.
 
 <!--
 **suhrmann/suhrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

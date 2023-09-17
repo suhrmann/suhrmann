@@ -1,7 +1,8 @@
 ## Servus 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhrmann&show_icons=true&count_private=true">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=suhrmann&show_icons=true&count_private=true&rank_icon=github">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrmann&layout=compact">
 </p>
 
 <table style="width: 100%">

@@ -3,8 +3,8 @@
 > "Servus" — the Alpine way to say hello, mostly used in Bavaria and Austria.
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=suhrmann&show_icons=true&count_private=true&rank_icon=github">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhrmann&layout=compact">
+  <img height=200 src="profile/stats.svg">
+  <img height=200 src="profile/top-langs.svg">
 </p>
 
 <table style="width: 100%">
